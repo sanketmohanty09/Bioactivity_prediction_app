@@ -14,4 +14,4 @@ I have trained the dataset on the 2 most commonly used bagging and boosting meth
 **4-Webapp**
 A web appliction was created using streamlit
 
-<img src="Screenshot.jpg">
+
