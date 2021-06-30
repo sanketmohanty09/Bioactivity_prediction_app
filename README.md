@@ -9,4 +9,7 @@ The Lipinski's rule of 5 was used to calculate the drug-likeness of the given co
 Finally,PaDEL-Descriptor was used to calculate the molecular descriptors and fingerprints which were used as features to train our model.For better understanding please check my EDA_Bio file in the code folder
 
 **3-Model**
-I have trained the dataset on the 2 most commonly used bagging and boosting method that are RandomForest and XGBoost,I got the best performance from the RandomForest model.I have also used lazypredict to check the  the performance in various other models 
+I have trained the dataset on the 2 most commonly used bagging and boosting method that are RandomForest and XGBoost,I got the best performance from the RandomForest model.I have also used lazypredict to check the  the performance in various other models.
+
+**4-Webapp**
+A web appliction was created using streamlit
