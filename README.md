@@ -1,7 +1,7 @@
 # Bioactivity_prediction_app
 
 **1- Collection of Dataset**
-The dataset was collected from the chembl database for the acetylcholinesterase compound which is used as drug for the treatment of alzheimer's disease.There are total 4800 compunds dataset.
+The dataset was collected from the chembl database for the acetylcholinesterase inhibitors which can be used as drug for the treatment of alzheimer's disease.There are total 4800 compunds dataset.
 
 **2-EDA**
 The Lipinski's rule of 5 was used to calculate the drug-likeness of the given compound and IC50 was converted to pIC50(-log(ic)) as it is more continous in nature.Based on the solubility factor compunds can be divided into 3 class active,inactive,intermediate.
